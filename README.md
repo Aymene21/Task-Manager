@@ -1,2 +1,8 @@
-# Task-Manager
-A simple and efficient task manager to help you stay organized. Add, edit, and prioritize tasks with reminders and deadlines. Built with modern web technologies for a clean, user-friendly experience.
+# Welcome in Task Manager - By **Aymene Boudali**
+
+## Setup:
+
+* finish the install and run **Task Manager.exe** from ur desktop
+
+-----------------------------------------
+> Note: to reset the app data head to app folder and delete **accounts.db**.
