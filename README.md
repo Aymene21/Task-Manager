@@ -2,7 +2,12 @@
 
 ## Setup:
 
-* finish the install and run **Task Manager.exe** from ur desktop
+1. Run the **setup.exe** to start setup handler.
 
------------------------------------------
-> Note: to reset the app data head to app folder and delete **accounts.db**.
+2. Complete the setup, and run the desktop shortcut **Task Manager**
+
+---------------------------
+## The app:
+
+* when the app start u have to enter a **4** digits **PIN**. Ex: **4865**
+![Set Image](set.png)
