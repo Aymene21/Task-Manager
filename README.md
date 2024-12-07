@@ -10,4 +10,4 @@
 ## The app:
 
 * when the app start u have to enter a **4** digits **PIN**. Ex: **4865**
-![Set Image](set.png)
+![Set PIN](./set.jpg)
